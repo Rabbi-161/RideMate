@@ -1,0 +1,40 @@
+[
+  {
+    "division": "Rajshahi",
+    "cities": [
+      {
+        "name": "Rajshahi City",
+        "areas": [
+          "Kazla",
+          "Talaimari",
+          "Binodpur",
+          "Motihar",
+          "Shaheb Bazar",
+          "Laxmipur",
+          "Vodra",
+          "Railgate",
+          "Shiroil",
+          "New Market",
+          "Bornali",
+          "RUET (Rajshahi University of Engineering & Technology)",
+          "RU (University of Rajshahi)"
+        ]
+      }
+    ]
+  },
+  {
+    "division": "Dhaka",
+    "cities": [
+      {
+        "name": "Dhaka City",
+        "areas": [
+          "Mirpur",
+          "Dhanmondi",
+          "Uttara",
+          "Mohakhali",
+          "Gulshan"
+        ]
+      }
+    ]
+  }
+]

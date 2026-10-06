@@ -1,0 +1,56 @@
+[
+  {
+    "id": "u1",
+    "name": "Rahim Hasan",
+    "email": "rahim.hasan@example.com",
+    "phone": "+880 1711-223344",
+    "rating": 4.8,
+    "totalRides": 24,
+    "avatarInitials": "RH"
+  },
+  {
+    "id": "u2",
+    "name": "Karim Ahmed",
+    "email": "karim.ahmed@example.com",
+    "phone": "+880 1812-334455",
+    "rating": 4.9,
+    "totalRides": 38,
+    "avatarInitials": "KA"
+  },
+  {
+    "id": "u3",
+    "name": "Nusrat Jahan",
+    "email": "nusrat.jahan@example.com",
+    "phone": "+880 1913-445566",
+    "rating": 4.7,
+    "totalRides": 15,
+    "avatarInitials": "NJ"
+  },
+  {
+    "id": "u4",
+    "name": "Fahim Islam",
+    "email": "fahim.islam@example.com",
+    "phone": "+880 1614-556677",
+    "rating": 4.6,
+    "totalRides": 19,
+    "avatarInitials": "FI"
+  },
+  {
+    "id": "u5",
+    "name": "Sadia Akter",
+    "email": "sadia.akter@example.com",
+    "phone": "+880 1515-667788",
+    "rating": 4.9,
+    "totalRides": 32,
+    "avatarInitials": "SA"
+  },
+  {
+    "id": "u6",
+    "name": "Tanvir Hossain",
+    "email": "tanvir.hossain@example.com",
+    "phone": "+880 1716-778899",
+    "rating": 4.5,
+    "totalRides": 11,
+    "avatarInitials": "TH"
+  }
+]
