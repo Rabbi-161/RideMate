@@ -1,11 +1,11 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'screens/splash_screen.dart';
-import 'services/auth_service.dart';
-import 'services/location_service.dart';
-import 'services/notification_service.dart';
-import 'services/ride_service.dart';
-import 'theme/app_theme.dart';
+import 'backend/services/auth_service.dart';
+import 'backend/services/location_service.dart';
+import 'backend/services/notification_service.dart';
+import 'backend/services/ride_service.dart';
+import 'frontend/screens/splash_screen.dart';
+import 'frontend/theme/app_theme.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
