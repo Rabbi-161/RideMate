@@ -94,5 +94,5 @@ lib/
 - **Course**: CSE 2100 - Software Development Project I  
 - **Department**: Department of Computer Science & Engineering, RUET  
 - **Members**:
-  - Rabbi — Roll: 2403161
-  - [Partner Name] — Roll: [Roll Number]
+  - Rabbi
+  - Azan 
