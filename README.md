@@ -32,6 +32,19 @@ Get the latest installable Android APK directly from the [Releases](https://gith
 
 ---
 
+## 📸 Screenshots
+
+| Login | Home Screen | Departure Station | Post a Ride |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/screenshots/01_login.png" width="200" alt="Login Screen"/> | <img src="assets/screenshots/02_home.jpg" width="200" alt="Home Screen"/> | <img src="assets/screenshots/03_station_search.jpg" width="200" alt="Departure Station"/> | <img src="assets/screenshots/04_create_ride.jpg" width="200" alt="Post a Ride"/> |
+
+| Ride Details | My Rides | Notifications | Profile |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/screenshots/05_ride_details.jpg" width="200" alt="Ride Details"/> | <img src="assets/screenshots/06_my_rides.png" width="200" alt="My Rides"/> | <img src="assets/screenshots/07_notifications.png" width="200" alt="Notifications"/> | <img src="assets/screenshots/08_profile.jpg" width="200" alt="Profile"/> |
+
+---
+
+
 ## Tech Stack
 
 - **Frontend**: Flutter (Dart)
